@@ -1,3 +1,3 @@
 this is a readme file for git practice.
 add second line to the file.
-git detects changes.
+git detects changes of all file.
